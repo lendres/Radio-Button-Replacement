@@ -461,10 +461,10 @@ F 3 "" H 7050 6300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Buttons_Switches_LE:Button_Cap BC?
+L Buttons_Switches_LE:Button_Cap BC1
 U 1 1 5F440328
 P 7650 6250
-F 0 "BC?" H 7778 6277 50  0000 L CNN
+F 0 "BC1" H 7778 6277 50  0000 L CNN
 F 1 "Red 7.8 mm" H 7778 6186 50  0000 L CNN
 F 2 "Button_Switches_LE:ButtonCap" H 7650 6250 50  0001 C CNN
 F 3 "https://www.ckswitches.com/media/1397/8020.pdf" H 7650 6250 50  0001 C CNN
@@ -477,10 +477,10 @@ F 8 "CKN1399-ND" H 7650 6250 50  0001 C CNN "Source Part No."
 	1    0    0    -1  
 $EndComp
 $Comp
-L Buttons_Switches_LE:Button_Cap BC?
+L Buttons_Switches_LE:Button_Cap BC3
 U 1 1 5F442072
 P 8550 6250
-F 0 "BC?" H 8678 6277 50  0000 L CNN
+F 0 "BC3" H 8678 6277 50  0000 L CNN
 F 1 "Black 7.8 mm" H 8678 6186 50  0000 L CNN
 F 2 "Button_Switches_LE:ButtonCap" H 8550 6250 50  0001 C CNN
 F 3 "https://www.ckswitches.com/media/1397/8020.pdf" H 8550 6250 50  0001 C CNN
@@ -493,10 +493,10 @@ F 8 "CKN1398-ND" H 8550 6250 50  0001 C CNN "Source Part No."
 	1    0    0    -1  
 $EndComp
 $Comp
-L Buttons_Switches_LE:Button_Cap BC?
+L Buttons_Switches_LE:Button_Cap BC4
 U 1 1 5F442B88
 P 9500 6250
-F 0 "BC?" H 9628 6277 50  0000 L CNN
+F 0 "BC4" H 9628 6277 50  0000 L CNN
 F 1 "White 7.8 mm" H 9628 6186 50  0000 L CNN
 F 2 "Button_Switches_LE:ButtonCap" H 9500 6250 50  0001 C CNN
 F 3 "https://www.ckswitches.com/media/1397/8020.pdf" H 9500 6250 50  0001 C CNN
@@ -509,10 +509,10 @@ F 8 "CKN1397-ND" H 9500 6250 50  0001 C CNN "Source Part No."
 	1    0    0    -1  
 $EndComp
 $Comp
-L Buttons_Switches_LE:Button_Cap BC?
+L Buttons_Switches_LE:Button_Cap BC2
 U 1 1 5F443CE6
 P 8550 5950
-F 0 "BC?" H 8678 5977 50  0000 L CNN
+F 0 "BC2" H 8678 5977 50  0000 L CNN
 F 1 "Black 7.8 mm" H 8678 5886 50  0000 L CNN
 F 2 "Button_Switches_LE:ButtonCap" H 8550 5950 50  0001 C CNN
 F 3 "https://www.ckswitches.com/media/1397/8020.pdf" H 8550 5950 50  0001 C CNN
