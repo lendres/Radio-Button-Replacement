@@ -456,7 +456,11 @@ P 7050 6300
 F 0 "L1" H 7135 6346 50  0000 L CNN
 F 1 "Logo" H 7135 6255 50  0000 L CNN
 F 2 "Logos:OSHW-Logo2_7.3x6mm_SilkScreen" H 7050 6300 50  0001 C CNN
-F 3 "" H 7050 6300 50  0001 C CNN
+F 3 "None" H 7050 6300 50  0001 C CNN
+F 4 "None" H 7050 6300 50  0001 C CNN "Description"
+F 5 "None" H 7050 6300 50  0001 C CNN "Manufacturer Name"
+F 6 "None" H 7050 6300 50  0001 C CNN "Manufacturer Part No."
+F 7 "None" H 7050 6300 50  0001 C CNN "Source"
 	1    7050 6300
 	1    0    0    -1  
 $EndComp
