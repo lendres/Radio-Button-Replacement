@@ -69,7 +69,7 @@ U 1 1 5F3A1FD9
 P 5600 3100
 F 0 "R1" V 5500 3100 50  0000 C CNN
 F 1 "2.2k" V 5700 3100 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 5530 3100 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 5530 3100 50  0001 C CNN
 F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 5600 3100 50  0001 C CNN
 F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 5600 3100 50  0001 C CNN "Description"
 F 5 "Stackpole Electronics Inc" H 5600 3100 50  0001 C CNN "Manufacturer Name"
@@ -184,7 +184,7 @@ U 1 1 5F3C8E60
 P 7300 3200
 F 0 "R4" V 7200 3200 50  0000 C CNN
 F 1 "2.2k" V 7400 3200 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 7230 3200 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 7230 3200 50  0001 C CNN
 F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 7300 3200 50  0001 C CNN
 F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 7300 3200 50  0001 C CNN "Description"
 F 5 "Stackpole Electronics Inc" H 7300 3200 50  0001 C CNN "Manufacturer Name"
@@ -210,7 +210,7 @@ U 1 1 5F3E16E2
 P 6150 2550
 F 0 "R2" V 6050 2550 50  0000 C CNN
 F 1 "2.2k" V 6250 2550 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 6080 2550 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6080 2550 50  0001 C CNN
 F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 6150 2550 50  0001 C CNN
 F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 6150 2550 50  0001 C CNN "Description"
 F 5 "Stackpole Electronics Inc" H 6150 2550 50  0001 C CNN "Manufacturer Name"
@@ -246,7 +246,7 @@ U 1 1 5F3E984E
 P 6750 2550
 F 0 "R3" V 6650 2550 50  0000 C CNN
 F 1 "2.2k" V 6850 2550 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 6680 2550 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6680 2550 50  0001 C CNN
 F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 6750 2550 50  0001 C CNN
 F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 6750 2550 50  0001 C CNN "Description"
 F 5 "Stackpole Electronics Inc" H 6750 2550 50  0001 C CNN "Manufacturer Name"
@@ -297,7 +297,7 @@ U 1 1 5F3F7F51
 P 5600 4550
 F 0 "R5" V 5500 4550 50  0000 C CNN
 F 1 "2.2k" V 5700 4550 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 5530 4550 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 5530 4550 50  0001 C CNN
 F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 5600 4550 50  0001 C CNN
 F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 5600 4550 50  0001 C CNN "Description"
 F 5 "Stackpole Electronics Inc" H 5600 4550 50  0001 C CNN "Manufacturer Name"
@@ -344,7 +344,7 @@ U 1 1 5F3F7F70
 P 7300 4650
 F 0 "R8" V 7200 4650 50  0000 C CNN
 F 1 "2.2k" V 7400 4650 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 7230 4650 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 7230 4650 50  0001 C CNN
 F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 7300 4650 50  0001 C CNN
 F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 7300 4650 50  0001 C CNN "Description"
 F 5 "Stackpole Electronics Inc" H 7300 4650 50  0001 C CNN "Manufacturer Name"
@@ -370,7 +370,7 @@ U 1 1 5F3F7F80
 P 6150 4000
 F 0 "R6" V 6050 4000 50  0000 C CNN
 F 1 "2.2k" V 6250 4000 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 6080 4000 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6080 4000 50  0001 C CNN
 F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 6150 4000 50  0001 C CNN
 F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 6150 4000 50  0001 C CNN "Description"
 F 5 "Stackpole Electronics Inc" H 6150 4000 50  0001 C CNN "Manufacturer Name"
@@ -406,7 +406,7 @@ U 1 1 5F3F7F96
 P 6750 4000
 F 0 "R7" V 6650 4000 50  0000 C CNN
 F 1 "2.2k" V 6850 4000 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 6680 4000 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6680 4000 50  0001 C CNN
 F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 6750 4000 50  0001 C CNN
 F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 6750 4000 50  0001 C CNN "Description"
 F 5 "Stackpole Electronics Inc" H 6750 4000 50  0001 C CNN "Manufacturer Name"
