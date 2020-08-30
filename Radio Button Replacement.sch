@@ -14,441 +14,441 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Buttons_Switches_LE:SW_Push_SPDT_1_3_2 SW2
+L Buttons_Switches_LE:SW_Push_SPDT_1_3_2 SW4
 U 1 1 5F39ACE8
-P 6750 3100
-F 0 "SW2" H 6650 2900 50  0000 L CNN
-F 1 "SW_Push_SPDT_1_3_2" H 6750 2900 50  0001 C CNN
-F 2 "Button_Switches_LE:8125SHZ" H 6750 3100 50  0001 C CNN
-F 3 "https://www.ckswitches.com/media/1397/8020.pdf" H 6750 3100 50  0001 C CNN
-F 4 "Pushbutton Switch SPDT Standard Panel Mount, Rear" H 6750 3100 50  0001 C CNN "Description"
-F 5 "C&K" H 6750 3100 50  0001 C CNN "Manufacturer Name"
-F 6 "8125SHZBE" H 6750 3100 50  0001 C CNN "Manufacturer Part No."
-F 7 "Digikey" H 6750 3100 50  0001 C CNN "Source"
-F 8 "CKN4022-ND" H 6750 3100 50  0001 C CNN "Source Part No."
-	1    6750 3100
+P 6750 4650
+F 0 "SW4" H 6650 4450 50  0000 L CNN
+F 1 "SW_Push_SPDT_1_3_2" H 6750 4450 50  0001 C CNN
+F 2 "Button_Switches_LE:8125SHZ" H 6750 4650 50  0001 C CNN
+F 3 "https://www.ckswitches.com/media/1397/8020.pdf" H 6750 4650 50  0001 C CNN
+F 4 "Pushbutton Switch SPDT Standard Panel Mount, Rear" H 6750 4650 50  0001 C CNN "Description"
+F 5 "C&K" H 6750 4650 50  0001 C CNN "Manufacturer Name"
+F 6 "8125SHZBE" H 6750 4650 50  0001 C CNN "Manufacturer Part No."
+F 7 "Digikey" H 6750 4650 50  0001 C CNN "Source"
+F 8 "CKN4022-ND" H 6750 4650 50  0001 C CNN "Source Part No."
+	1    6750 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L Frequently_Used_LE:TestPoint_3 TP1
-U 1 1 5F39C8FD
-P 4300 3100
-F 0 "TP1" V 4300 3400 50  0000 C CNN
-F 1 "TestPoint_3" H 4300 2820 50  0001 C CNN
-F 2 "Frequently_Used_LE:Pad_3_3.0-5.0" H 4400 3100 50  0001 C CNN
-F 3 "None" H 4400 3100 50  0001 C CNN
-F 4 "INPUT 1" V 4200 3400 50  0000 C CNN "Name"
-F 5 "None" H 4295 2745 50  0001 C CNN "Source"
-F 6 "None" H 4295 2745 50  0001 C CNN "Source Part No."
-F 7 "None" H 4295 2745 50  0001 C CNN "Manufacturer Name"
-F 8 "None" H 4295 2745 50  0001 C CNN "Manufacturer Part No."
-F 9 "None" H 4300 3100 50  0001 C CNN "Description"
-	1    4300 3100
-	0    -1   -1   0   
-$EndComp
-$Comp
 L Frequently_Used_LE:TestPoint_3 TP2
-U 1 1 5F3A1DD2
-P 4300 4550
-F 0 "TP2" V 4300 4850 50  0000 C CNN
-F 1 "TestPoint_3" H 4300 4270 50  0001 C CNN
-F 2 "Frequently_Used_LE:Pad_3_3.0-5.0" H 4400 4550 50  0001 C CNN
-F 3 "None" H 4400 4550 50  0001 C CNN
-F 4 "INPUT 2" V 4200 4850 50  0000 C CNN "Name"
-F 5 "None" H 4295 4195 50  0001 C CNN "Source"
-F 6 "None" H 4295 4195 50  0001 C CNN "Source Part No."
-F 7 "None" H 4295 4195 50  0001 C CNN "Manufacturer Name"
-F 8 "None" H 4295 4195 50  0001 C CNN "Manufacturer Part No."
-F 9 "None" H 4300 4550 50  0001 C CNN "Description"
-	1    4300 4550
+U 1 1 5F39C8FD
+P 4300 4650
+F 0 "TP2" V 4300 4950 50  0000 C CNN
+F 1 "TestPoint_3" H 4300 4370 50  0001 C CNN
+F 2 "Frequently_Used_LE:Pad_3_3.0-5.0" H 4400 4650 50  0001 C CNN
+F 3 "None" H 4400 4650 50  0001 C CNN
+F 4 "Y INPUT" V 4200 4950 50  0000 C CNN "Name"
+F 5 "None" H 4295 4295 50  0001 C CNN "Source"
+F 6 "None" H 4295 4295 50  0001 C CNN "Source Part No."
+F 7 "None" H 4295 4295 50  0001 C CNN "Manufacturer Name"
+F 8 "None" H 4295 4295 50  0001 C CNN "Manufacturer Part No."
+F 9 "None" H 4300 4650 50  0001 C CNN "Description"
+	1    4300 4650
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Frequently_Used_LE:R R1
+L Frequently_Used_LE:TestPoint_3 TP1
+U 1 1 5F3A1DD2
+P 4300 3050
+F 0 "TP1" V 4300 3350 50  0000 C CNN
+F 1 "TestPoint_3" H 4300 2770 50  0001 C CNN
+F 2 "Frequently_Used_LE:Pad_3_3.0-5.0" H 4400 3050 50  0001 C CNN
+F 3 "None" H 4400 3050 50  0001 C CNN
+F 4 "X INPUT" V 4200 3350 50  0000 C CNN "Name"
+F 5 "None" H 4295 2695 50  0001 C CNN "Source"
+F 6 "None" H 4295 2695 50  0001 C CNN "Source Part No."
+F 7 "None" H 4295 2695 50  0001 C CNN "Manufacturer Name"
+F 8 "None" H 4295 2695 50  0001 C CNN "Manufacturer Part No."
+F 9 "None" H 4300 3050 50  0001 C CNN "Description"
+	1    4300 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Frequently_Used_LE:R R6
 U 1 1 5F3A1FD9
-P 5600 3100
-F 0 "R1" V 5500 3100 50  0000 C CNN
-F 1 "2.2k" V 5700 3100 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 5530 3100 50  0001 C CNN
-F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 5600 3100 50  0001 C CNN
-F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 5600 3100 50  0001 C CNN "Description"
-F 5 "Stackpole Electronics Inc" H 5600 3100 50  0001 C CNN "Manufacturer Name"
-F 6 "RNMF14FTC2K20" H 5600 3100 50  0001 C CNN "Manufacturer Part No."
-F 7 "Digikey" H 5600 3100 50  0001 C CNN "Source"
-F 8 "S2.2KCACT-ND" H 5600 3100 50  0001 C CNN "Source Part No."
-	1    5600 3100
+P 5600 4650
+F 0 "R6" V 5500 4650 50  0000 C CNN
+F 1 "2.2k" V 5700 4650 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 5530 4650 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 5600 4650 50  0001 C CNN
+F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 5600 4650 50  0001 C CNN "Description"
+F 5 "Stackpole Electronics Inc" H 5600 4650 50  0001 C CNN "Manufacturer Name"
+F 6 "RNMF14FTC2K20" H 5600 4650 50  0001 C CNN "Manufacturer Part No."
+F 7 "Digikey" H 5600 4650 50  0001 C CNN "Source"
+F 8 "S2.2KCACT-ND" H 5600 4650 50  0001 C CNN "Source Part No."
+	1    5600 4650
 	0    1    1    0   
 $EndComp
 $Comp
 L Frequently_Used_LE:GND #PWR02
 U 1 1 5F3AAA12
-P 4400 3400
-F 0 "#PWR02" H 4400 3150 50  0001 C CNN
-F 1 "GND" H 4405 3227 50  0000 C CNN
-F 2 "" H 4400 3400 50  0001 C CNN
-F 3 "" H 4400 3400 50  0001 C CNN
-	1    4400 3400
+P 4400 4950
+F 0 "#PWR02" H 4400 4700 50  0001 C CNN
+F 1 "GND" H 4405 4777 50  0000 C CNN
+F 2 "" H 4400 4950 50  0001 C CNN
+F 3 "" H 4400 4950 50  0001 C CNN
+	1    4400 4950
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4300 3300 4400 3300
+	4300 4850 4400 4850
 Wire Wire Line
-	4400 3300 4400 3400
+	4400 4850 4400 4950
 $Comp
 L Frequently_Used_LE:VCC #PWR0101
 U 1 1 5F3AF9EB
-P 4400 2800
-F 0 "#PWR0101" H 4400 2650 50  0001 C CNN
-F 1 "VCC" H 4415 2973 50  0000 C CNN
-F 2 "" H 4400 2800 50  0001 C CNN
-F 3 "" H 4400 2800 50  0001 C CNN
-	1    4400 2800
+P 4400 4350
+F 0 "#PWR0101" H 4400 4200 50  0001 C CNN
+F 1 "VCC" H 4415 4523 50  0000 C CNN
+F 2 "" H 4400 4350 50  0001 C CNN
+F 3 "" H 4400 4350 50  0001 C CNN
+	1    4400 4350
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4300 2900 4400 2900
+	4300 4450 4400 4450
 Wire Wire Line
-	4400 2900 4400 2800
+	4400 4450 4400 4350
 Wire Wire Line
-	4300 3100 4750 3100
+	4300 4650 4750 4650
 $Comp
-L Buttons_Switches_LE:SW_Push_SPDT_1_3_2 SW1
+L Buttons_Switches_LE:SW_Push_SPDT_1_3_2 SW3
 U 1 1 5F399E22
-P 6150 3100
-F 0 "SW1" H 6050 2900 50  0000 L CNN
-F 1 "SW_Push_SPDT_1_3_2" H 6150 2900 50  0001 C CNN
-F 2 "Button_Switches_LE:8125SHZ" H 6150 3100 50  0001 C CNN
-F 3 "https://www.ckswitches.com/media/1397/8020.pdf" H 6150 3100 50  0001 C CNN
-F 4 "Pushbutton Switch SPDT Standard Panel Mount, Rear" H 6150 3100 50  0001 C CNN "Description"
-F 5 "C&K" H 6150 3100 50  0001 C CNN "Manufacturer Name"
-F 6 "8125SHZBE" H 6150 3100 50  0001 C CNN "Manufacturer Part No."
-F 7 "Digikey" H 6150 3100 50  0001 C CNN "Source"
-F 8 "CKN4022-ND" H 6150 3100 50  0001 C CNN "Source Part No."
-	1    6150 3100
+P 6150 4650
+F 0 "SW3" H 6050 4450 50  0000 L CNN
+F 1 "SW_Push_SPDT_1_3_2" H 6150 4450 50  0001 C CNN
+F 2 "Button_Switches_LE:8125SHZ" H 6150 4650 50  0001 C CNN
+F 3 "https://www.ckswitches.com/media/1397/8020.pdf" H 6150 4650 50  0001 C CNN
+F 4 "Pushbutton Switch SPDT Standard Panel Mount, Rear" H 6150 4650 50  0001 C CNN "Description"
+F 5 "C&K" H 6150 4650 50  0001 C CNN "Manufacturer Name"
+F 6 "8125SHZBE" H 6150 4650 50  0001 C CNN "Manufacturer Part No."
+F 7 "Digikey" H 6150 4650 50  0001 C CNN "Source"
+F 8 "CKN4022-ND" H 6150 4650 50  0001 C CNN "Source Part No."
+	1    6150 4650
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5450 3100 5350 3100
+	5450 4650 5350 4650
 $Comp
 L Frequently_Used_LE:VCC #PWR05
 U 1 1 5F3BCCBA
-P 5350 3000
-F 0 "#PWR05" H 5350 2850 50  0001 C CNN
-F 1 "VCC" H 5365 3173 50  0000 C CNN
-F 2 "" H 5350 3000 50  0001 C CNN
-F 3 "" H 5350 3000 50  0001 C CNN
-	1    5350 3000
+P 5350 4550
+F 0 "#PWR05" H 5350 4400 50  0001 C CNN
+F 1 "VCC" H 5365 4723 50  0000 C CNN
+F 2 "" H 5350 4550 50  0001 C CNN
+F 3 "" H 5350 4550 50  0001 C CNN
+	1    5350 4550
 	1    0    0    -1  
 $EndComp
-Text Label 4500 3100 0    50   ~ 0
-WIRE1
+Text Label 4500 4650 0    50   ~ 0
+YWIRE
 $Comp
 L Frequently_Used_LE:GND #PWR04
 U 1 1 5F3BF5CD
-P 4400 4850
-F 0 "#PWR04" H 4400 4600 50  0001 C CNN
-F 1 "GND" H 4405 4677 50  0000 C CNN
-F 2 "" H 4400 4850 50  0001 C CNN
-F 3 "" H 4400 4850 50  0001 C CNN
-	1    4400 4850
+P 4400 3350
+F 0 "#PWR04" H 4400 3100 50  0001 C CNN
+F 1 "GND" H 4405 3177 50  0000 C CNN
+F 2 "" H 4400 3350 50  0001 C CNN
+F 3 "" H 4400 3350 50  0001 C CNN
+	1    4400 3350
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4300 4750 4400 4750
+	4300 3250 4400 3250
 Wire Wire Line
-	4400 4750 4400 4850
+	4400 3250 4400 3350
 $Comp
 L Frequently_Used_LE:VCC #PWR03
 U 1 1 5F3BF5D5
-P 4400 4250
-F 0 "#PWR03" H 4400 4100 50  0001 C CNN
-F 1 "VCC" H 4415 4423 50  0000 C CNN
-F 2 "" H 4400 4250 50  0001 C CNN
-F 3 "" H 4400 4250 50  0001 C CNN
-	1    4400 4250
+P 4400 2750
+F 0 "#PWR03" H 4400 2600 50  0001 C CNN
+F 1 "VCC" H 4415 2923 50  0000 C CNN
+F 2 "" H 4400 2750 50  0001 C CNN
+F 3 "" H 4400 2750 50  0001 C CNN
+	1    4400 2750
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4300 4350 4400 4350
+	4300 2850 4400 2850
 Wire Wire Line
-	4400 4350 4400 4250
+	4400 2850 4400 2750
 Wire Wire Line
-	4300 4550 4750 4550
-Text Label 4500 4550 0    50   ~ 0
-WIRE2
-NoConn ~ 6350 3000
-NoConn ~ 6950 3000
+	4300 3050 4750 3050
+Text Label 4500 3050 0    50   ~ 0
+XWIRE
+NoConn ~ 6350 4550
+NoConn ~ 6950 4550
 $Comp
-L Frequently_Used_LE:R R4
+L Frequently_Used_LE:R R8
 U 1 1 5F3C8E60
-P 7300 3200
-F 0 "R4" V 7200 3200 50  0000 C CNN
-F 1 "2.2k" V 7400 3200 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 7230 3200 50  0001 C CNN
-F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 7300 3200 50  0001 C CNN
-F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 7300 3200 50  0001 C CNN "Description"
-F 5 "Stackpole Electronics Inc" H 7300 3200 50  0001 C CNN "Manufacturer Name"
-F 6 "RNMF14FTC2K20" H 7300 3200 50  0001 C CNN "Manufacturer Part No."
-F 7 "Digikey" H 7300 3200 50  0001 C CNN "Source"
-F 8 "S2.2KCACT-ND" H 7300 3200 50  0001 C CNN "Source Part No."
-	1    7300 3200
+P 7300 4750
+F 0 "R8" V 7200 4750 50  0000 C CNN
+F 1 "2.2k" V 7400 4750 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 7230 4750 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 7300 4750 50  0001 C CNN
+F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 7300 4750 50  0001 C CNN "Description"
+F 5 "Stackpole Electronics Inc" H 7300 4750 50  0001 C CNN "Manufacturer Name"
+F 6 "RNMF14FTC2K20" H 7300 4750 50  0001 C CNN "Manufacturer Part No."
+F 7 "Digikey" H 7300 4750 50  0001 C CNN "Source"
+F 8 "S2.2KCACT-ND" H 7300 4750 50  0001 C CNN "Source Part No."
+	1    7300 4750
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	7550 3200 7450 3200
+	7550 4750 7450 4750
 Wire Wire Line
-	6450 3100 6550 3100
+	6450 4650 6550 4650
 Wire Wire Line
-	6350 3200 6450 3200
+	6350 4750 6450 4750
 Wire Wire Line
-	6450 3200 6450 3100
+	6450 4750 6450 4650
 Wire Wire Line
-	5350 3000 5350 3100
+	5350 4550 5350 4650
 $Comp
-L Frequently_Used_LE:R R2
+L Frequently_Used_LE:R R5
 U 1 1 5F3E16E2
-P 6150 2550
-F 0 "R2" V 6050 2550 50  0000 C CNN
-F 1 "2.2k" V 6250 2550 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6080 2550 50  0001 C CNN
-F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 6150 2550 50  0001 C CNN
-F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 6150 2550 50  0001 C CNN "Description"
-F 5 "Stackpole Electronics Inc" H 6150 2550 50  0001 C CNN "Manufacturer Name"
-F 6 "RNMF14FTC2K20" H 6150 2550 50  0001 C CNN "Manufacturer Part No."
-F 7 "Digikey" H 6150 2550 50  0001 C CNN "Source"
-F 8 "S2.2KCACT-ND" H 6150 2550 50  0001 C CNN "Source Part No."
-	1    6150 2550
+P 6150 4100
+F 0 "R5" V 6050 4100 50  0000 C CNN
+F 1 "2.2k" V 6250 4100 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6080 4100 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 6150 4100 50  0001 C CNN
+F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 6150 4100 50  0001 C CNN "Description"
+F 5 "Stackpole Electronics Inc" H 6150 4100 50  0001 C CNN "Manufacturer Name"
+F 6 "RNMF14FTC2K20" H 6150 4100 50  0001 C CNN "Manufacturer Part No."
+F 7 "Digikey" H 6150 4100 50  0001 C CNN "Source"
+F 8 "S2.2KCACT-ND" H 6150 4100 50  0001 C CNN "Source Part No."
+	1    6150 4100
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	5850 3100 5850 2550
+	5850 4650 5850 4100
 Wire Wire Line
-	5850 2550 6000 2550
+	5850 4100 6000 4100
 Wire Wire Line
-	6450 2550 6450 3100
-Connection ~ 6450 3100
+	6450 4100 6450 4650
+Connection ~ 6450 4650
 $Comp
 L Frequently_Used_LE:GND #PWR06
 U 1 1 5F3E3D7F
-P 7550 3300
-F 0 "#PWR06" H 7550 3050 50  0001 C CNN
-F 1 "GND" H 7555 3127 50  0000 C CNN
-F 2 "" H 7550 3300 50  0001 C CNN
-F 3 "" H 7550 3300 50  0001 C CNN
-	1    7550 3300
+P 7550 4850
+F 0 "#PWR06" H 7550 4600 50  0001 C CNN
+F 1 "GND" H 7555 4677 50  0000 C CNN
+F 2 "" H 7550 4850 50  0001 C CNN
+F 3 "" H 7550 4850 50  0001 C CNN
+	1    7550 4850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7550 3300 7550 3200
+	7550 4850 7550 4750
 $Comp
-L Frequently_Used_LE:R R3
+L Frequently_Used_LE:R R7
 U 1 1 5F3E984E
-P 6750 2550
-F 0 "R3" V 6650 2550 50  0000 C CNN
-F 1 "2.2k" V 6850 2550 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6680 2550 50  0001 C CNN
-F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 6750 2550 50  0001 C CNN
-F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 6750 2550 50  0001 C CNN "Description"
-F 5 "Stackpole Electronics Inc" H 6750 2550 50  0001 C CNN "Manufacturer Name"
-F 6 "RNMF14FTC2K20" H 6750 2550 50  0001 C CNN "Manufacturer Part No."
-F 7 "Digikey" H 6750 2550 50  0001 C CNN "Source"
-F 8 "S2.2KCACT-ND" H 6750 2550 50  0001 C CNN "Source Part No."
-	1    6750 2550
+P 6750 4100
+F 0 "R7" V 6650 4100 50  0000 C CNN
+F 1 "2.2k" V 6850 4100 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6680 4100 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 6750 4100 50  0001 C CNN
+F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 6750 4100 50  0001 C CNN "Description"
+F 5 "Stackpole Electronics Inc" H 6750 4100 50  0001 C CNN "Manufacturer Name"
+F 6 "RNMF14FTC2K20" H 6750 4100 50  0001 C CNN "Manufacturer Part No."
+F 7 "Digikey" H 6750 4100 50  0001 C CNN "Source"
+F 8 "S2.2KCACT-ND" H 6750 4100 50  0001 C CNN "Source Part No."
+	1    6750 4100
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	6450 2550 6600 2550
+	6450 4100 6600 4100
 Wire Wire Line
-	6950 3200 7050 3200
+	6950 4750 7050 4750
 Wire Wire Line
-	7050 3200 7050 2550
-Connection ~ 7050 3200
+	7050 4750 7050 4100
+Connection ~ 7050 4750
 Wire Wire Line
-	7050 3200 7150 3200
+	7050 4750 7150 4750
 Wire Wire Line
-	5750 3100 5850 3100
-Connection ~ 5850 3100
+	5750 4650 5850 4650
+Connection ~ 5850 4650
 Wire Wire Line
-	5850 3100 5950 3100
+	5850 4650 5950 4650
 Wire Wire Line
-	6300 2550 6450 2550
-Connection ~ 6450 2550
+	6300 4100 6450 4100
+Connection ~ 6450 4100
 Wire Wire Line
-	6900 2550 7050 2550
+	6900 4100 7050 4100
 $Comp
-L Buttons_Switches_LE:SW_Push_SPDT_1_3_2 SW4
+L Buttons_Switches_LE:SW_Push_SPDT_1_3_2 SW2
 U 1 1 5F3F7F46
-P 6750 4550
-F 0 "SW4" H 6650 4350 50  0000 L CNN
-F 1 "SW_Push_SPDT_1_3_2" H 6750 4350 50  0001 C CNN
-F 2 "Button_Switches_LE:8125SHZ" H 6750 4550 50  0001 C CNN
-F 3 "https://www.ckswitches.com/media/1397/8020.pdf" H 6750 4550 50  0001 C CNN
-F 4 "Pushbutton Switch SPDT Standard Panel Mount, Rear" H 6750 4550 50  0001 C CNN "Description"
-F 5 "C&K" H 6750 4550 50  0001 C CNN "Manufacturer Name"
-F 6 "8125SHZBE" H 6750 4550 50  0001 C CNN "Manufacturer Part No."
-F 7 "Digikey" H 6750 4550 50  0001 C CNN "Source"
-F 8 "CKN4022-ND" H 6750 4550 50  0001 C CNN "Source Part No."
-	1    6750 4550
+P 6750 3050
+F 0 "SW2" H 6650 2850 50  0000 L CNN
+F 1 "SW_Push_SPDT_1_3_2" H 6750 2850 50  0001 C CNN
+F 2 "Button_Switches_LE:8125SHZ" H 6750 3050 50  0001 C CNN
+F 3 "https://www.ckswitches.com/media/1397/8020.pdf" H 6750 3050 50  0001 C CNN
+F 4 "Pushbutton Switch SPDT Standard Panel Mount, Rear" H 6750 3050 50  0001 C CNN "Description"
+F 5 "C&K" H 6750 3050 50  0001 C CNN "Manufacturer Name"
+F 6 "8125SHZBE" H 6750 3050 50  0001 C CNN "Manufacturer Part No."
+F 7 "Digikey" H 6750 3050 50  0001 C CNN "Source"
+F 8 "CKN4022-ND" H 6750 3050 50  0001 C CNN "Source Part No."
+	1    6750 3050
 	1    0    0    -1  
 $EndComp
 $Comp
-L Frequently_Used_LE:R R5
+L Frequently_Used_LE:R R2
 U 1 1 5F3F7F51
-P 5600 4550
-F 0 "R5" V 5500 4550 50  0000 C CNN
-F 1 "2.2k" V 5700 4550 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 5530 4550 50  0001 C CNN
-F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 5600 4550 50  0001 C CNN
-F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 5600 4550 50  0001 C CNN "Description"
-F 5 "Stackpole Electronics Inc" H 5600 4550 50  0001 C CNN "Manufacturer Name"
-F 6 "RNMF14FTC2K20" H 5600 4550 50  0001 C CNN "Manufacturer Part No."
-F 7 "Digikey" H 5600 4550 50  0001 C CNN "Source"
-F 8 "S2.2KCACT-ND" H 5600 4550 50  0001 C CNN "Source Part No."
-	1    5600 4550
+P 5600 3050
+F 0 "R2" V 5500 3050 50  0000 C CNN
+F 1 "2.2k" V 5700 3050 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 5530 3050 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 5600 3050 50  0001 C CNN
+F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 5600 3050 50  0001 C CNN "Description"
+F 5 "Stackpole Electronics Inc" H 5600 3050 50  0001 C CNN "Manufacturer Name"
+F 6 "RNMF14FTC2K20" H 5600 3050 50  0001 C CNN "Manufacturer Part No."
+F 7 "Digikey" H 5600 3050 50  0001 C CNN "Source"
+F 8 "S2.2KCACT-ND" H 5600 3050 50  0001 C CNN "Source Part No."
+	1    5600 3050
 	0    1    1    0   
 $EndComp
 $Comp
-L Buttons_Switches_LE:SW_Push_SPDT_1_3_2 SW3
+L Buttons_Switches_LE:SW_Push_SPDT_1_3_2 SW1
 U 1 1 5F3F7F5C
-P 6150 4550
-F 0 "SW3" H 6050 4350 50  0000 L CNN
-F 1 "SW_Push_SPDT_1_3_2" H 6150 4350 50  0001 C CNN
-F 2 "Button_Switches_LE:8125SHZ" H 6150 4550 50  0001 C CNN
-F 3 "https://www.ckswitches.com/media/1397/8020.pdf" H 6150 4550 50  0001 C CNN
-F 4 "Pushbutton Switch SPDT Standard Panel Mount, Rear" H 6150 4550 50  0001 C CNN "Description"
-F 5 "C&K" H 6150 4550 50  0001 C CNN "Manufacturer Name"
-F 6 "8125SHZBE" H 6150 4550 50  0001 C CNN "Manufacturer Part No."
-F 7 "Digikey" H 6150 4550 50  0001 C CNN "Source"
-F 8 "CKN4022-ND" H 6150 4550 50  0001 C CNN "Source Part No."
-	1    6150 4550
+P 6150 3050
+F 0 "SW1" H 6050 2850 50  0000 L CNN
+F 1 "SW_Push_SPDT_1_3_2" H 6150 2850 50  0001 C CNN
+F 2 "Button_Switches_LE:8125SHZ" H 6150 3050 50  0001 C CNN
+F 3 "https://www.ckswitches.com/media/1397/8020.pdf" H 6150 3050 50  0001 C CNN
+F 4 "Pushbutton Switch SPDT Standard Panel Mount, Rear" H 6150 3050 50  0001 C CNN "Description"
+F 5 "C&K" H 6150 3050 50  0001 C CNN "Manufacturer Name"
+F 6 "8125SHZBE" H 6150 3050 50  0001 C CNN "Manufacturer Part No."
+F 7 "Digikey" H 6150 3050 50  0001 C CNN "Source"
+F 8 "CKN4022-ND" H 6150 3050 50  0001 C CNN "Source Part No."
+	1    6150 3050
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5450 4550 5350 4550
+	5450 3050 5350 3050
 $Comp
 L Frequently_Used_LE:VCC #PWR07
 U 1 1 5F3F7F63
-P 5350 4450
-F 0 "#PWR07" H 5350 4300 50  0001 C CNN
-F 1 "VCC" H 5365 4623 50  0000 C CNN
-F 2 "" H 5350 4450 50  0001 C CNN
-F 3 "" H 5350 4450 50  0001 C CNN
-	1    5350 4450
+P 5350 2950
+F 0 "#PWR07" H 5350 2800 50  0001 C CNN
+F 1 "VCC" H 5365 3123 50  0000 C CNN
+F 2 "" H 5350 2950 50  0001 C CNN
+F 3 "" H 5350 2950 50  0001 C CNN
+	1    5350 2950
 	1    0    0    -1  
 $EndComp
-NoConn ~ 6350 4450
-NoConn ~ 6950 4450
+NoConn ~ 6350 2950
+NoConn ~ 6950 2950
 $Comp
-L Frequently_Used_LE:R R8
+L Frequently_Used_LE:R R4
 U 1 1 5F3F7F70
-P 7300 4650
-F 0 "R8" V 7200 4650 50  0000 C CNN
-F 1 "2.2k" V 7400 4650 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 7230 4650 50  0001 C CNN
-F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 7300 4650 50  0001 C CNN
-F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 7300 4650 50  0001 C CNN "Description"
-F 5 "Stackpole Electronics Inc" H 7300 4650 50  0001 C CNN "Manufacturer Name"
-F 6 "RNMF14FTC2K20" H 7300 4650 50  0001 C CNN "Manufacturer Part No."
-F 7 "Digikey" H 7300 4650 50  0001 C CNN "Source"
-F 8 "S2.2KCACT-ND" H 7300 4650 50  0001 C CNN "Source Part No."
-	1    7300 4650
+P 7300 3150
+F 0 "R4" V 7200 3150 50  0000 C CNN
+F 1 "2.2k" V 7400 3150 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 7230 3150 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 7300 3150 50  0001 C CNN
+F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 7300 3150 50  0001 C CNN "Description"
+F 5 "Stackpole Electronics Inc" H 7300 3150 50  0001 C CNN "Manufacturer Name"
+F 6 "RNMF14FTC2K20" H 7300 3150 50  0001 C CNN "Manufacturer Part No."
+F 7 "Digikey" H 7300 3150 50  0001 C CNN "Source"
+F 8 "S2.2KCACT-ND" H 7300 3150 50  0001 C CNN "Source Part No."
+	1    7300 3150
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	7550 4650 7450 4650
+	7550 3150 7450 3150
 Wire Wire Line
-	6450 4550 6550 4550
+	6450 3050 6550 3050
 Wire Wire Line
-	6350 4650 6450 4650
+	6350 3150 6450 3150
 Wire Wire Line
-	6450 4650 6450 4550
+	6450 3150 6450 3050
 Wire Wire Line
-	5350 4450 5350 4550
+	5350 2950 5350 3050
 $Comp
-L Frequently_Used_LE:R R6
+L Frequently_Used_LE:R R1
 U 1 1 5F3F7F80
-P 6150 4000
-F 0 "R6" V 6050 4000 50  0000 C CNN
-F 1 "2.2k" V 6250 4000 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6080 4000 50  0001 C CNN
-F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 6150 4000 50  0001 C CNN
-F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 6150 4000 50  0001 C CNN "Description"
-F 5 "Stackpole Electronics Inc" H 6150 4000 50  0001 C CNN "Manufacturer Name"
-F 6 "RNMF14FTC2K20" H 6150 4000 50  0001 C CNN "Manufacturer Part No."
-F 7 "Digikey" H 6150 4000 50  0001 C CNN "Source"
-F 8 "S2.2KCACT-ND" H 6150 4000 50  0001 C CNN "Source Part No."
-	1    6150 4000
+P 6150 2500
+F 0 "R1" V 6050 2500 50  0000 C CNN
+F 1 "2.2k" V 6250 2500 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6080 2500 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 6150 2500 50  0001 C CNN
+F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 6150 2500 50  0001 C CNN "Description"
+F 5 "Stackpole Electronics Inc" H 6150 2500 50  0001 C CNN "Manufacturer Name"
+F 6 "RNMF14FTC2K20" H 6150 2500 50  0001 C CNN "Manufacturer Part No."
+F 7 "Digikey" H 6150 2500 50  0001 C CNN "Source"
+F 8 "S2.2KCACT-ND" H 6150 2500 50  0001 C CNN "Source Part No."
+	1    6150 2500
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	5850 4550 5850 4000
+	5850 3050 5850 2500
 Wire Wire Line
-	5850 4000 6000 4000
+	5850 2500 6000 2500
 Wire Wire Line
-	6450 4000 6450 4550
-Connection ~ 6450 4550
+	6450 2500 6450 3050
+Connection ~ 6450 3050
 $Comp
 L Frequently_Used_LE:GND #PWR08
 U 1 1 5F3F7F8A
-P 7550 4750
-F 0 "#PWR08" H 7550 4500 50  0001 C CNN
-F 1 "GND" H 7555 4577 50  0000 C CNN
-F 2 "" H 7550 4750 50  0001 C CNN
-F 3 "" H 7550 4750 50  0001 C CNN
-	1    7550 4750
+P 7550 3250
+F 0 "#PWR08" H 7550 3000 50  0001 C CNN
+F 1 "GND" H 7555 3077 50  0000 C CNN
+F 2 "" H 7550 3250 50  0001 C CNN
+F 3 "" H 7550 3250 50  0001 C CNN
+	1    7550 3250
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7550 4750 7550 4650
+	7550 3250 7550 3150
 $Comp
-L Frequently_Used_LE:R R7
+L Frequently_Used_LE:R R3
 U 1 1 5F3F7F96
-P 6750 4000
-F 0 "R7" V 6650 4000 50  0000 C CNN
-F 1 "2.2k" V 6850 4000 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6680 4000 50  0001 C CNN
-F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 6750 4000 50  0001 C CNN
-F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 6750 4000 50  0001 C CNN "Description"
-F 5 "Stackpole Electronics Inc" H 6750 4000 50  0001 C CNN "Manufacturer Name"
-F 6 "RNMF14FTC2K20" H 6750 4000 50  0001 C CNN "Manufacturer Part No."
-F 7 "Digikey" H 6750 4000 50  0001 C CNN "Source"
-F 8 "S2.2KCACT-ND" H 6750 4000 50  0001 C CNN "Source Part No."
-	1    6750 4000
+P 6750 2500
+F 0 "R3" V 6650 2500 50  0000 C CNN
+F 1 "2.2k" V 6850 2500 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6680 2500 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rnf_rnmf.pdf" H 6750 2500 50  0001 C CNN
+F 4 "2.2 kOhms ±1% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film" H 6750 2500 50  0001 C CNN "Description"
+F 5 "Stackpole Electronics Inc" H 6750 2500 50  0001 C CNN "Manufacturer Name"
+F 6 "RNMF14FTC2K20" H 6750 2500 50  0001 C CNN "Manufacturer Part No."
+F 7 "Digikey" H 6750 2500 50  0001 C CNN "Source"
+F 8 "S2.2KCACT-ND" H 6750 2500 50  0001 C CNN "Source Part No."
+	1    6750 2500
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	6450 4000 6600 4000
+	6450 2500 6600 2500
 Wire Wire Line
-	6950 4650 7050 4650
+	6950 3150 7050 3150
 Wire Wire Line
-	7050 4650 7050 4000
-Connection ~ 7050 4650
+	7050 3150 7050 2500
+Connection ~ 7050 3150
 Wire Wire Line
-	7050 4650 7150 4650
+	7050 3150 7150 3150
 Wire Wire Line
-	5750 4550 5850 4550
-Connection ~ 5850 4550
+	5750 3050 5850 3050
+Connection ~ 5850 3050
 Wire Wire Line
-	5850 4550 5950 4550
+	5850 3050 5950 3050
 Wire Wire Line
-	6300 4000 6450 4000
-Connection ~ 6450 4000
+	6300 2500 6450 2500
+Connection ~ 6450 2500
 Wire Wire Line
-	6900 4000 7050 4000
+	6900 2500 7050 2500
 Wire Wire Line
-	6150 3550 6450 3550
-Text Label 6200 3550 0    50   ~ 0
-WIRE1
+	6150 5100 6450 5100
+Text Label 6200 5100 0    50   ~ 0
+YWIRE
 Wire Wire Line
-	6450 3550 6450 3200
-Connection ~ 6450 3200
+	6450 5100 6450 4750
+Connection ~ 6450 4750
 Wire Wire Line
-	6150 5000 6450 5000
-Text Label 6200 5000 0    50   ~ 0
-WIRE2
+	6150 3500 6450 3500
+Text Label 6200 3500 0    50   ~ 0
+XWIRE
 Wire Wire Line
-	6450 5000 6450 4650
-Connection ~ 6450 4650
+	6450 3500 6450 3150
+Connection ~ 6450 3150
 $Comp
 L Frequently_Used_LE:Logo L1
 U 1 1 5F3FC479
